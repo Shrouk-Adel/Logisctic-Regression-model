@@ -10,7 +10,7 @@ The logistic function is a sigmoid function that takes a real number as input an
 a value between 0 and 1. This means that the logistic function can be used
 to model the probability of an event occurring.
 
-all about Logistic Regression : 
+All about Logistic Regression : 
 1. cost function
 2. Gradient descent
 3. Decision boundary
